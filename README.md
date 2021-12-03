@@ -15,7 +15,15 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+```
+def circulate():
+  n=(int(input())) 
+  l=[10,20,30,40,50,60]
+  print("After circulating the values are:",l[n:]+l[:n])
+  ```
 
 ## Output:
+![GitHub Logo](.//circulatethenvariablesoutput.png)
 
 ## Result:
+thus the circulating the n variables is successfully compleated 
