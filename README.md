@@ -25,4 +25,4 @@ def circulate():
 ![GitHub Logo](.//circulatethenvariablesoutput.png)
 
 ## Result:
-thus the circulating the n variables is successfully compleated 
+thus the circulating the n variables is successfully completed 
